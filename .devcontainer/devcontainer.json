@@ -21,8 +21,8 @@
 	"customizations": {
 		"vscode": {
 			"settings": {
-				"editor.fontSize": 24,
-				"terminal.integrated.fontSize": 24,
+				"editor.fontSize": 18,
+				"terminal.integrated.fontSize": 18,
 				"editor.codeLens": false,
 				"workbench.colorTheme": "Default Dark Modern"
 			},
