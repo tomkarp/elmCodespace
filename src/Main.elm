@@ -1,3 +1,4 @@
 module Main exposing (..)
 
-antwort = 42
+message : String
+message = "Hello"
