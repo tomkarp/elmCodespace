@@ -34,3 +34,4 @@ starten. Du findest deine erstellten Codespaces im Menü oben links:
 * Standardmäßig wird ein Codespace nach 30 Tagen gelöscht, wenn er nicht benutzt wird.
 * Die maximale Ausführungsdauer für deine gesamten Codespaces ist standardmäßig beim kostenlosen Konto auf 60 Stunden pro Monat beschränkt.
 * Wenn du einem Codespace mehr Rechenleistung zuweist, reduziert sich diese Zeit weiter.
+* Du kannst als Schüler einen Schüler-Accound bei GitHub bekommen, mit dem du 90 Stunden pro Monat frei hast.
