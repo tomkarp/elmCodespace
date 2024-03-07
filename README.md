@@ -7,7 +7,8 @@ Die benötigte Software - wie Node.js oder der Elm-Compiler - sind schon install
 Visual Studio Code ist fertig konfiguriert.
 
 ## Erster Start
-Wenn du mit deinem GitHub Account angemeldet bist, kannst du direkt aus dieser Vorlage einen Codespace starten (der erste Start 
+Wenn du mit deinem GitHub Account angemeldet bist, kannst du direkt aus dieser Vorlage einen Codespace starten.
+Klicke dazu oben auf der Seite auf folgende Stellen (der erste Start 
 dauert ein wenig, danach ist der Start deutlich schneller):
 
 <img width="897" alt="image" src="https://github.com/tomkarp/elmCodespace/assets/12151127/33dfb391-c2dc-4922-a747-2cfb82038794">
